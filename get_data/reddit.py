@@ -62,7 +62,7 @@ for domain in domains:
 
 print("Scraping completed.")
 # Save results to a JSON file
-output_filename = "reddit_ELI5.json"
+output_filename = "reddit_eli5.json"
 
 with open(output_filename, "w", encoding="utf-8") as output_file:
     json.dump(questions_and_answers, output_file, ensure_ascii=False, indent=4)

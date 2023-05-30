@@ -1,0 +1,7 @@
+rouge-score
+transformers>=4.28.1
+openai
+sklearn
+torch
+nltk
+spacy
