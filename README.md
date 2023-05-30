@@ -1,2 +1,2 @@
 # DNA-GPT
-Official releasefor DNA-GPT: https://arxiv.org/abs/2305.17359
+Official release for DNA-GPT: https://arxiv.org/abs/2305.17359
